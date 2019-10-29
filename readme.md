@@ -76,6 +76,9 @@ Contém alguns ultils Criados para auxiliar na espera de um elemnto, verificar s
 
 # Cenarios 
 
+## Observações:
+Os cenarios poderam ser quebrados caso o recaptcha do gogoogle apareça tive esse problema poderia ser automatizado porem levaria muito tempo para criar um scprit inteligente para validar o recaptcha.
+
 ##### Cenario: Realizar uma compra
 
   ''

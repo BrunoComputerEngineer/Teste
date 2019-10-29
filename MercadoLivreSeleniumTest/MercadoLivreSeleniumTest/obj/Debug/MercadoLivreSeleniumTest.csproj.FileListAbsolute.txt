@@ -1,0 +1,395 @@
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\MercadoLivreSeleniumTest.dll.config
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\MercadoLivreSeleniumTest.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\MercadoLivreSeleniumTest.pdb
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\netstandard.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.AppContext.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Collections.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.ComponentModel.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Console.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Data.Common.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Globalization.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.Compression.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.Pipes.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Linq.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.Http.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.Ping.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.Primitives.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.Requests.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.Security.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.Sockets.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.ObjectModel.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Reflection.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Resources.Reader.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Resources.Writer.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Security.Claims.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Security.Principal.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Security.SecureString.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Text.Encoding.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.Thread.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.Timer.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.ValueTuple.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Xml.XPath.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Gherkin.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\nunit.framework.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Utf8Json.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\WebDriver.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\WebDriver.Support.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\nunit.framework.pdb
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\nunit.framework.xml
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Utf8Json.xml
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\WebDriver.xml
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\WebDriver.Support.xml
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\obj\Debug\MercadoLivreSeleniumTest.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\obj\Debug\MercadoLivreSeleniumTest.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\obj\Debug\MercadoLivreSeleniumTest.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\obj\Debug\MercadoLivreSeleniumTest.pdb
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\nunit.engine.dll
+C:\Users\Bruno\Desktop\CI&T\CI&T\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\nunit.engine.api.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\obj\Debug\MercadoLivreSeleniumTest.csprojAssemblyReference.cache
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\obj\Debug\MercadoLivreSeleniumTest.csproj.CoreCompileInputs.cache
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\obj\Debug\MercadoLivreSeleniumTest.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\obj\Debug\MercadoLivreSeleniumTest.pdb
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\NUnit3.TestAdapter.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\nunit.engine.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\nunit.engine.api.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\MercadoLivreSeleniumTest.dll.config
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\MercadoLivreSeleniumTest.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\MercadoLivreSeleniumTest.pdb
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\netstandard.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.AppContext.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Collections.Concurrent.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Collections.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Collections.NonGeneric.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Collections.Specialized.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.ComponentModel.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.ComponentModel.Primitives.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Console.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Data.Common.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.Contracts.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.Debug.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.Process.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.Tools.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.Tracing.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Drawing.Primitives.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Dynamic.Runtime.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Globalization.Calendars.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Globalization.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Globalization.Extensions.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.Compression.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.FileSystem.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.IsolatedStorage.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.Pipes.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Linq.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Linq.Expressions.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Linq.Parallel.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Linq.Queryable.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.Http.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.NameResolution.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.NetworkInformation.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.Ping.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.Primitives.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.Requests.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.Security.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.Sockets.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.WebSockets.Client.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.WebSockets.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.ObjectModel.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Reflection.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Reflection.Extensions.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Reflection.Primitives.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Resources.Reader.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Resources.ResourceManager.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Resources.Writer.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.Extensions.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.Handles.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.InteropServices.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.Numerics.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Security.Claims.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Security.Principal.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Security.SecureString.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Text.Encoding.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Text.RegularExpressions.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.Overlapped.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.Tasks.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.Thread.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.ThreadPool.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.Timer.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.ValueTuple.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Xml.ReaderWriter.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Xml.XDocument.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Xml.XmlDocument.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Xml.XmlSerializer.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Xml.XPath.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Gherkin.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Newtonsoft.Json.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\nunit.framework.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\TechTalk.SpecFlow.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Utf8Json.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\WebDriver.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\WebDriver.Support.dll
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Newtonsoft.Json.xml
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\nunit.framework.pdb
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\nunit.framework.xml
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Utf8Json.xml
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\WebDriver.xml
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\WebDriver.Support.xml
+C:\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\obj\Debug\MercadoLivreSeleniumTest.csproj.CopyComplete
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\obj\Debug\MercadoLivreSeleniumTest.csprojAssemblyReference.cache
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\obj\Debug\MercadoLivreSeleniumTest.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\obj\Debug\MercadoLivreSeleniumTest.pdb
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\nunit.engine.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\nunit.engine.api.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\MercadoLivreSeleniumTest.pdb
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\netstandard.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.AppContext.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Collections.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.ComponentModel.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Console.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Data.Common.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Globalization.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.Compression.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.Pipes.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Linq.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.Http.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.Ping.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.Primitives.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.Requests.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.Security.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.Sockets.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.ObjectModel.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Reflection.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Resources.Reader.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Resources.Writer.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Security.Claims.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Security.Principal.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Security.SecureString.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Text.Encoding.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.Thread.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.Timer.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.ValueTuple.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Xml.XPath.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Gherkin.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\nunit.framework.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Utf8Json.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\WebDriver.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\WebDriver.Support.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\nunit.framework.pdb
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\nunit.framework.xml
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\Utf8Json.xml
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\WebDriver.xml
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\WebDriver.Support.xml
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\obj\Debug\MercadoLivreSeleniumTest.csproj.CopyComplete
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\MercadoLivreSeleniumTest.dll.config
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\bin\Debug\MercadoLivreSeleniumTest.dll
+C:\Users\Bruno Vieira\Desktop\Mercado\ProjetoMercadoLivre\MercadoLivreSeleniumTest\MercadoLivreSeleniumTest\obj\Debug\MercadoLivreSeleniumTest.dll
